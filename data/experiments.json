@@ -1,0 +1,101 @@
+{
+	"experiment 1": {
+		"runid": "12345abcde",
+		"recipe_name": "recipe_1",
+		"parameters": {
+			"Magnetron1_orientation": 0,
+			"DC_supply4_magnetron": 0,
+			"RF_supply5_power_set": 0,
+			"DC_supply3_freq_set": 0,
+			"DC_supply3_current_act": 0,
+			"heater_temperature_act": 0,
+			"Target_diameter": 0
+		},
+		"timestamp": "12:34:56",
+		"username": "user1",
+		"isDone": false
+	},
+	"experiment 2": {
+		"runid": "12346abcde",
+		"recipe_name": "recipe_2",
+		"parameters": {
+			"DC_supply1_ramprate_set": 1,
+			"RF_supply5_ramprate_set": 1,
+			"RF_supply5_power_set": 1,
+			"DC_supply1_freq_set": 1,
+			"presputter_time": 1,
+			"substrate_rotation_rate": 1,
+			"Target_diameter": 1
+		},
+		"timestamp": "12:34:56",
+		"username": "user2",
+		"isDone": true
+	},
+	"experiment 3": {
+		"runid": "12347abcde",
+		"recipe_name": "recipe_3",
+		"parameters": {
+			"Magnetron3_orientation": 0,
+			"DC_supply4_magnetron": 0,
+			"RF_supply5_power_set": 0,
+			"gas1_flow_set": 0,
+			"DC_supply3_current_act": 0,
+			"heater_temperature_act": 0,
+			"Target_diameter": 0
+		},
+		"timestamp": "12:34:56",
+		"username": "user3",
+		"isDone": true		
+	},
+	"experiment 4": {
+		"runid": "12348abcde",
+		"recipe_name": "recipe_4",
+		"parameters": {
+			"Magnetron4_orientation": 0,
+			"magnetron3_used": 0,
+			"RF_supply5_power_set": 0,
+			"DC_supply3_freq_set": 0,
+			"DC_supply3_current_act": 0,
+			"gas1_flow_set": 0,
+			"Target_diameter": 0
+		},
+		"timestamp": "12:34:56",
+		"username": "user4",
+		"isDone": true
+	},
+	"experiment 5": {
+		"runid": "12349abcde",
+		"recipe_name": "recipe_5",
+		"parameters": {
+			"Magnetron5_orientation": 0,
+			"RF_supply5_magnetron": 0,
+			"RF_supply5_power_set": 0,
+			"DC_supply3_freq_set": 0,
+			"gas1_flow_set": 0,
+			"heater_temperature_act": 0,
+			"Target_diameter": 0
+		},
+		"timestamp": "12:34:56",
+		"username": "user5",
+		"isDone": true
+	},
+	"experiment 6": {
+		"runid": "12350abcde",
+		"recipe_name": "recipe_6",
+		"parameters": {
+			"DC_supply1_ramprate_set": 0,
+			"RF_supply5_ramprate_set": 0,
+			"DC_supply1_freq_set": 0,
+			"presputter_time": 0,
+			"substrate_rotation_rate": 0,
+			"gas1_flow_set": 0,
+			"working_pressure_set": 0,
+			"DC_supply1_power_set": 0,
+			"RF_supply5_power_set": 0,
+			"sputter_time": 0
+		},
+		"timestamp": "12:34:56",
+		"username": "user6",
+		"isDone": true
+	}
+}
