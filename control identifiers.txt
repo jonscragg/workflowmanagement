@@ -1,0 +1,883 @@
+<PyQt6.QtCore.QMetaObject.Connection object at 0x000001EF06DF93F0>
+Control Identifiers:
+
+Dialog - 'Inbox - paarth.sanhotra.3950@student.uu.se - Outlook'    (L267, T0, R1721, B1000)
+['Inbox - paarth.sanhotra.3950@student.uu.se - OutlookDialog', 'Dialog', 'Inbox - paarth.sanhotra.3950@student.uu.se - Outlook', 'Dialog0', 'Dialog1']
+child_window(title="Inbox - paarth.sanhotra.3950@student.uu.se - Outlook", control_type="Window")
+   | 
+   | Pane - 'DropShadowTop'    (L275, T128, R1713, B134)
+   | ['Pane', 'DropShadowTopPane', 'DropShadowTop', 'Pane0', 'Pane1']
+   | child_window(title="DropShadowTop", control_type="Pane")
+   | 
+   | Pane - 'NUIDocumentWindow'    (L275, T49, R323, B970)
+   | ['Pane2', 'NUIDocumentWindow', 'NUIDocumentWindowPane', 'NUIDocumentWindow0', 'NUIDocumentWindow1', 'NUIDocumentWindowPane0', 'NUIDocumentWindowPane1']
+   | child_window(title="NUIDocumentWindow", control_type="Pane")
+   |    | 
+   |    | Pane - ''    (L275, T49, R323, B970)
+   |    | ['Pane3', 'Uppsala Business ParkPane', 'Uppsala Business ParkPane0', 'Uppsala Business ParkPane1']
+   |    |    | 
+   |    |    | Custom - ''    (L275, T49, R323, B970)
+   |    |    | ['Custom', 'Uppsala Business ParkCustom', 'Custom0', 'Custom1', 'Uppsala Business ParkCustom0', 'Uppsala Business ParkCustom1']
+   |    |    |    | 
+   |    |    |    | GroupBox - ''    (L275, T49, R323, B970)
+   |    |    |    | ['GroupBox', 'Uppsala Business ParkGroupBox', 'GroupBox0', 'GroupBox1', 'Uppsala Business ParkGroupBox0', 'Uppsala Business ParkGroupBox1']
+   |    |    |    |    | 
+   |    |    |    |    | ListBox - ''    (L275, T49, R323, B970)
+   |    |    |    |    | ['ListBox', 'Uppsala Business ParkListBox', 'ListBox0', 'ListBox1', 'Uppsala Business ParkListBox0', 'Uppsala Business ParkListBox1']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Mail'    (L275, T49, R323, B95)
+   |    |    |    |    |    | ['Mail', 'ListItem', 'MailListItem', 'ListItem0', 'ListItem1']
+   |    |    |    |    |    | child_window(title="Mail", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Image - ''    (L289, T62, R309, B82)
+   |    |    |    |    |    |    | ['Image', 'Uppsala Business ParkImage', 'Image0', 'Image1', 'Uppsala Business ParkImage0', 'Uppsala Business ParkImage1']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Calendar'    (L275, T95, R323, B141)
+   |    |    |    |    |    | ['ListItem2', 'CalendarListItem', 'Calendar']
+   |    |    |    |    |    | child_window(title="Calendar", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Image - ''    (L289, T108, R309, B128)
+   |    |    |    |    |    |    | ['Image2', 'Uppsala Business ParkImage2']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'People'    (L275, T141, R323, B187)
+   |    |    |    |    |    | ['ListItem3', 'PeopleListItem', 'People']
+   |    |    |    |    |    | child_window(title="People", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Image - ''    (L289, T154, R309, B174)
+   |    |    |    |    |    |    | ['Image3', 'Uppsala Business ParkImage3']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'Tasks'    (L275, T187, R323, B233)
+   |    |    |    |    |    | ['Tasks', 'TasksListItem', 'ListItem4']
+   |    |    |    |    |    | child_window(title="Tasks", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Image - ''    (L289, T200, R309, B220)
+   |    |    |    |    |    |    | ['Image4', 'Uppsala Business ParkImage4']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'To Do'    (L275, T233, R323, B279)
+   |    |    |    |    |    | ['To DoListItem', 'To Do', 'ListItem5']
+   |    |    |    |    |    | child_window(title="To Do", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Image - ''    (L289, T246, R309, B266)
+   |    |    |    |    |    |    | ['Image5', 'Uppsala Business ParkImage5']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | ListItem - 'More Apps'    (L275, T279, R323, B325)
+   |    |    |    |    |    | ['More AppsListItem', 'More Apps', 'ListItem6']
+   |    |    |    |    |    | child_window(title="More Apps", control_type="ListItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Image - ''    (L289, T292, R309, B312)
+   |    |    |    |    |    |    | ['Image6', 'Uppsala Business ParkImage6']
+   | 
+   | Pane - 'FolderBar'    (L381, T140, R681, B183)
+   | ['Pane4', 'FolderBarPane', 'FolderBar']
+   | child_window(title="FolderBar", auto_id="1", control_type="Pane")
+   |    | 
+   |    | Dialog - 'NUIDocumentWindow'    (L381, T140, R681, B183)
+   |    | ['Dialog2', 'NUIDocumentWindow2', 'NUIDocumentWindowDialog']
+   |    | child_window(title="NUIDocumentWindow", control_type="Window")
+   |    |    | 
+   |    |    | Pane - ''    (L381, T140, R681, B183)
+   |    |    | ['Pane5', 'AllPane']
+   |    |    |    | 
+   |    |    |    | Custom - ''    (L381, T140, R681, B183)
+   |    |    |    | ['Custom2', 'AllCustom']
+   |    |    |    |    | 
+   |    |    |    |    | Button - ''    (L381, T140, R681, B183)
+   |    |    |    |    | ['AllButton', 'Button', 'Button0', 'Button1']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Dialog - ''    (L0, T0, R0, B0)
+   |    |    |    |    |    | ['Dialog3']
+   |    |    |    |    |    | child_window(auto_id="SearchPane", control_type="Window")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - 'Show All Emails'    (L400, T156, R436, B183)
+   |    |    |    |    |    | ['Show All Emails', 'Button2', 'Show All EmailsButton']
+   |    |    |    |    |    | child_window(title="Show All Emails", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'All'    (L408, T156, R428, B176)
+   |    |    |    |    |    |    | ['Static', 'AllStatic', 'All', 'Static0', 'Static1']
+   |    |    |    |    |    |    | child_window(title="All", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - 'Show Unread Emails'    (L436, T156, R502, B183)
+   |    |    |    |    |    | ['Show Unread EmailsButton', 'Show Unread Emails', 'Button3']
+   |    |    |    |    |    | child_window(title="Show Unread Emails", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Unread'    (L444, T156, R494, B176)
+   |    |    |    |    |    |    | ['UnreadStatic', 'Static2', 'Unread']
+   |    |    |    |    |    |    | child_window(title="Unread", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - 'Sort, arrange or filter messages'    (L563, T158, R633, B178)
+   |    |    |    |    |    | ['Sort, arrange or filter messagesButton', 'Sort, arrange or filter messages', 'Button4', 'Sort, arrange or filter messages0', 'Sort, arrange or filter messages1']
+   |    |    |    |    |    | child_window(title="Sort, arrange or filter messages", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Sort, arrange or filter messages'    (L571, T160, R613, B176)
+   |    |    |    |    |    |    | ['Static3', 'Sort, arrange or filter messages2', 'Sort, arrange or filter messagesStatic']
+   |    |    |    |    |    |    | child_window(title="Sort, arrange or filter messages", control_type="Text")
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Button - 'Sort messages'    (L637, T158, R657, B178)
+   |    |    |    |    |    | ['Sort messages', 'Button5', 'Sort messagesButton']
+   |    |    |    |    |    | child_window(title="Sort messages", control_type="Button")
+   | 
+   | Pane - 'NUIDocumentWindow'    (L337, T140, R379, B970)
+   | ['Pane6', 'NUIDocumentWindow3', 'NUIDocumentWindowPane2']
+   | child_window(title="NUIDocumentWindow", auto_id="103", control_type="Pane")
+   |    | 
+   |    | Pane - ''    (L337, T140, R379, B970)
+   |    | ['Pane7', 'Uppsala Business ParkPane2']
+   |    |    | 
+   |    |    | Custom - ''    (L337, T140, R379, B970)
+   |    |    | ['Custom3', 'Uppsala Business ParkCustom2']
+   |    |    |    | 
+   |    |    |    | Button - 'Folder Pane Minimized'    (L337, T140, R379, B182)
+   |    |    |    | ['Folder Pane MinimizedButton', 'Folder Pane Minimized', 'Button6']
+   |    |    |    | child_window(title="Folder Pane Minimized", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Image - ''    (L348, T151, R367, B170)
+   |    |    |    |    | ['Image7', 'Uppsala Business ParkImage7']
+   |    |    |    | 
+   |    |    |    | Button - 'Inbox'    (L337, T182, R379, B229)
+   |    |    |    | ['InboxButton', 'Button7', 'Inbox']
+   |    |    |    | child_window(title="Inbox", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Sent Items'    (L337, T229, R379, B300)
+   |    |    |    | ['Sent Items', 'Sent ItemsButton', 'Button8']
+   |    |    |    | child_window(title="Sent Items", control_type="Button")
+   |    |    |    | 
+   |    |    |    | Button - 'Deleted Items'    (L337, T300, R379, B388)
+   |    |    |    | ['Deleted Items', 'Deleted ItemsButton', 'Button9']
+   |    |    |    | child_window(title="Deleted Items", control_type="Button")
+   | 
+   | Pane - ''    (L692, T141, R1698, B969)
+   | ['Pane8', 'Sort, arrange or filter messagesPane', 'Sort, arrange or filter messagesPane0', 'Sort, arrange or filter messagesPane1']
+   |    | 
+   |    | Pane - ''    (L692, T141, R1698, B969)
+   |    | ['Pane9', 'Sort, arrange or filter messagesPane2']
+   |    |    | 
+   |    |    | Image - ''    (L1171, T491, R1219, B539)
+   |    |    | ['Image8', 'Sort, arrange or filter messagesImage']
+   |    |    | child_window(auto_id="4512", control_type="Image")
+   |    |    | 
+   |    |    | Static - 'Select an item to read'    (L698, T542, R1692, B565)
+   |    |    | ['Select an item to readStatic', 'Static4', 'Select an item to read']
+   |    |    | child_window(title="Select an item to read", auto_id="4513", control_type="Text")
+   |    |    | 
+   |    |    | Button - 'Click here to always preview messages'    (L1089, T568, R1301, B592)
+   |    |    | ['Click here to always preview messagesButton', 'Button10', 'Click here to always preview messages']
+   |    |    | child_window(title="Click here to always preview messages", auto_id="4353", control_type="Button")
+   | 
+   | Table - 'Table View'    (L381, T183, R657, B970)
+   | ['Table ViewTable', 'Table View', 'Table']
+   | child_window(title="Table View", auto_id="4704", control_type="Table")
+   |    | 
+   |    | Pane - 'Vertical'    (L664, T183, R681, B970)
+   |    | ['Pane10', 'VerticalPane', 'Vertical']
+   |    | child_window(title="Vertical", auto_id="4693", control_type="Pane")
+   |    |    | 
+   |    |    | Pane - ''    (L664, T183, R681, B970)
+   |    |    | ['Pane11', 'Sort, arrange or filter messagesPane3']
+   |    |    |    | 
+   |    |    |    | ScrollBar - ''    (L664, T183, R681, B970)
+   |    |    |    | ['Sort, arrange or filter messagesScrollBar', 'ScrollBar']
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Line up'    (L664, T183, R681, B200)
+   |    |    |    |    | ['Line up', 'Button11', 'Line upButton']
+   |    |    |    |    | child_window(title="Line up", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Page up'    (L0, T0, R0, B0)
+   |    |    |    |    | ['Page up', 'Button12', 'Page upButton']
+   |    |    |    |    | child_window(title="Page up", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Thumb - ''    (L664, T200, R681, B217)
+   |    |    |    |    | ['Thumb', 'Sort, arrange or filter messagesThumb', 'Thumb0', 'Thumb1']
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Page down'    (L664, T217, R681, B953)
+   |    |    |    |    | ['Page down', 'Button13', 'Page downButton']
+   |    |    |    |    | child_window(title="Page down", control_type="Button")
+   |    |    |    |    | 
+   |    |    |    |    | Button - 'Line down'    (L664, T953, R681, B970)
+   |    |    |    |    | ['Line downButton', 'Button14', 'Line down']
+   |    |    |    |    | child_window(title="Line down", control_type="Button")
+   |    | 
+   |    | GroupBox - 'Group By: Expanded: Date: Today'    (L381, T183, R657, B207)
+   |    | ['Group By: Expanded: Date: TodayGroupBox', 'GroupBox2', 'Group By: Expanded: Date: Today']
+   |    | child_window(title="Group By: Expanded: Date: Today", control_type="Group")
+   |    |    | 
+   |    |    | DataItem - 'From Uppsala Business Park, Subject Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m, Received 10:35, Size 198 KB, Flag Status Unflagged, '    (L381, T208, R657, B279)
+   |    |    | ['DataItem', 'From Uppsala Business Park, Subject Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m, Received 10:35, Size 198 KB, Flag Status Unflagged, DataItem', 'From Uppsala Business Park, Subject Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m, Received 10:35, Size 198 KB, Flag Status Unflagged, ', 'DataItem0', 'DataItem1']
+   |    |    | child_window(title="From Uppsala Business Park, Subject Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m, Received 10:35, Size 198 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Uppsala Business Park'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Uppsala Business Park", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Tue 16-05-2023 10:35'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Tue 16-05-2023 10:35", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '198 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="198 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T208, R615, B279)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T208, R638, B279)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    | 
+   |    | GroupBox - 'Group By: Expanded: Date: Yesterday'    (L381, T280, R657, B304)
+   |    | ['GroupBox3', 'Group By: Expanded: Date: Yesterday', 'Group By: Expanded: Date: YesterdayGroupBox']
+   |    | child_window(title="Group By: Expanded: Date: Yesterday", control_type="Group")
+   |    |    | 
+   |    |    | DataItem - 'From Jonathan Staaf Scragg, Subject RE: #uuit[1003]:1540092#   SV: server access, Received Mon 9:19, Size 93 KB, Flag Status Unflagged, '    (L381, T305, R657, B376)
+   |    |    | ['DataItem2', 'From Jonathan Staaf Scragg, Subject RE: #uuit[1003]:1540092#   SV: server access, Received Mon 9:19, Size 93 KB, Flag Status Unflagged, ', 'From Jonathan Staaf Scragg, Subject RE: #uuit[1003]:1540092#   SV: server access, Received Mon 9:19, Size 93 KB, Flag Status Unflagged, DataItem']
+   |    |    | child_window(title="From Jonathan Staaf Scragg, Subject RE: #uuit[1003]:1540092#   SV: server access, Received Mon 9:19, Size 93 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Jonathan Staaf Scragg'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Jonathan Staaf Scragg", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'RE: #uuit[1003]:1540092#   SV: server access'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="RE: #uuit[1003]:1540092#   SV: server access", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Mon 15-05-2023 09:19'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Mon 15-05-2023 09:19", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '93 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="93 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T305, R615, B376)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T305, R638, B376)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    | 
+   |    | GroupBox - 'Group By: Expanded: Date: Last Week'    (L381, T377, R657, B401)
+   |    | ['Group By: Expanded: Date: Last Week', 'GroupBox4', 'Group By: Expanded: Date: Last WeekGroupBox']
+   |    | child_window(title="Group By: Expanded: Date: Last Week", control_type="Group")
+   |    |    | 
+   |    |    | DataItem - 'From Jonathan Staaf Scragg, Subject BEA, Received Fri 12-05, Size 66 KB, Flag Status Unflagged, '    (L381, T402, R657, B473)
+   |    |    | ['DataItem3', 'From Jonathan Staaf Scragg, Subject BEA, Received Fri 12-05, Size 66 KB, Flag Status Unflagged, DataItem', 'From Jonathan Staaf Scragg, Subject BEA, Received Fri 12-05, Size 66 KB, Flag Status Unflagged, ']
+   |    |    | child_window(title="From Jonathan Staaf Scragg, Subject BEA, Received Fri 12-05, Size 66 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Jonathan Staaf Scragg'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Jonathan Staaf Scragg", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'BEA'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="BEA", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Fri 12-05-2023 13:06'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Fri 12-05-2023 13:06", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '66 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="66 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T402, R615, B473)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T402, R638, B473)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    |    | 
+   |    |    | DataItem - 'From Jonathan Staaf Scragg, Subject FW: #uuit[1003]:1540092#   SV: server access, Received Fri 12-05, Size 58 KB, Flag Status Unflagged, '    (L381, T474, R657, B545)
+   |    |    | ['DataItem4', 'From Jonathan Staaf Scragg, Subject FW: #uuit[1003]:1540092#   SV: server access, Received Fri 12-05, Size 58 KB, Flag Status Unflagged, DataItem', 'From Jonathan Staaf Scragg, Subject FW: #uuit[1003]:1540092#   SV: server access, Received Fri 12-05, Size 58 KB, Flag Status Unflagged, ']
+   |    |    | child_window(title="From Jonathan Staaf Scragg, Subject FW: #uuit[1003]:1540092#   SV: server access, Received Fri 12-05, Size 58 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Jonathan Staaf Scragg'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Jonathan Staaf Scragg", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'FW: #uuit[1003]:1540092#   SV: server access'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="FW: #uuit[1003]:1540092#   SV: server access", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Fri 12-05-2023 08:19'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Fri 12-05-2023 08:19", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '58 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="58 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T474, R615, B545)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T474, R638, B545)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    |    | 
+   |    |    | DataItem - 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 52 KB, Flag Status Unflagged, '    (L381, T546, R657, B617)
+   |    |    | ['DataItem5', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 52 KB, Flag Status Unflagged, ', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 52 KB, Flag Status Unflagged, DataItem']
+   |    |    | child_window(title="From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 52 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Xiaobo Zhao'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Xiaobo Zhao", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Re: Meeting today?'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="Re: Meeting today?", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Wed 10-05-2023 08:52'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Wed 10-05-2023 08:52", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '52 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="52 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T546, R615, B617)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T546, R638, B617)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    |    | 
+   |    |    | DataItem - 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 59 KB, Flag Status Unflagged, '    (L381, T618, R657, B689)
+   |    |    | ['DataItem6', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 59 KB, Flag Status Unflagged, DataItem', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 59 KB, Flag Status Unflagged, ']
+   |    |    | child_window(title="From Xiaobo Zhao, Subject Re: Meeting today?, Received Wed 10-05, Size 59 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Xiaobo Zhao'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Xiaobo Zhao", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Re: Meeting today?'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="Re: Meeting today?", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Wed 10-05-2023 08:50'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Wed 10-05-2023 08:50", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '59 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="59 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T618, R615, B689)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T618, R638, B689)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    |    | 
+   |    |    | DataItem - 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 53 KB, Flag Status Unflagged, '    (L381, T690, R657, B761)
+   |    |    | ['DataItem7', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 53 KB, Flag Status Unflagged, ', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 53 KB, Flag Status Unflagged, DataItem']
+   |    |    | child_window(title="From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 53 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Xiaobo Zhao'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Xiaobo Zhao", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Re: Meeting today?'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="Re: Meeting today?", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Tue 09-05-2023 10:29'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Tue 09-05-2023 10:29", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '53 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="53 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T690, R615, B761)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T690, R638, B761)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    |    | 
+   |    |    | DataItem - 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 59 KB, Flag Status Unflagged, '    (L381, T762, R657, B833)
+   |    |    | ['DataItem8', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 59 KB, Flag Status Unflagged, DataItem', 'From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 59 KB, Flag Status Unflagged, ']
+   |    |    | child_window(title="From Xiaobo Zhao, Subject Re: Meeting today?, Received Tue 09-05, Size 59 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Xiaobo Zhao'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Xiaobo Zhao", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Re: Meeting today?'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="Re: Meeting today?", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Tue 09-05-2023 09:53'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Tue 09-05-2023 09:53", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '59 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="59 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T762, R615, B833)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T762, R638, B833)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    |    | 
+   |    |    | DataItem - 'From Xiaobo Zhao, Subject Meeting today?, Received Tue 09-05, Size 54 KB, Flag Status Unflagged, '    (L381, T834, R657, B905)
+   |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    | child_window(title="From Xiaobo Zhao, Subject Meeting today?, Received Tue 09-05, Size 54 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Xiaobo Zhao'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Xiaobo Zhao", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Meeting today?'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="Meeting today?", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Tue 09-05-2023 09:32'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Tue 09-05-2023 09:32", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '54 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="54 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L596, T834, R615, B905)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L619, T834, R638, B905)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    |    | 
+   |    |    | DataItem - 'From Akanksha Makkar, Subject Fwd: Tickets for Budapest: Danube River Sightseeing Cruise with Hop On Hop Off Option - Night-time Cruise (Booking ID: 12341453), Received Sun 07-05, Size 100 KB, Flag Status Unflagged, '    (L0, T0, R0, B0)
+   |    |    | ['DataItem10', 'From Akanksha Makkar, Subject Fwd: Tickets for Budapest: Danube River Sightseeing Cruise with Hop On Hop Off Option - Night-time Cruise (Booking ID: 12341453), Received Sun 07-05, Size 100 KB, Flag Status Unflagged, ', 'From Akanksha Makkar, Subject Fwd: Tickets for Budapest: Danube River Sightseeing Cruise with Hop On Hop Off Option - Night-time Cruise (Booking ID: 12341453), Received Sun 07-05, Size 100 KB, Flag Status Unflagged, DataItem']
+   |    |    | child_window(title="From Akanksha Makkar, Subject Fwd: Tickets for Budapest: Danube River Sightseeing Cruise with Hop On Hop Off Option - Night-time Cruise (Booking ID: 12341453), Received Sun 07-05, Size 100 KB, Flag Status Unflagged, ", control_type="DataItem")
+   |    |    |    | 
+   |    |    |    | Static - 'Akanksha Makkar'    (L0, T0, R0, B0)
+   |    |    |    | ['Static5', 'Uppsala Business ParkStatic', 'Uppsala Business Park']
+   |    |    |    | child_window(title="Akanksha Makkar", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Fwd: Tickets for Budapest: Danube River Sightseeing Cruise with Hop On Hop Off Option - Night-time Cruise (Booking ID: 12341453)'    (L0, T0, R0, B0)
+   |    |    |    | ['Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.mStatic', 'Static6', 'Sommarfest med liveartist, nya frukostar, LIFE PUB, yoga m.m']
+   |    |    |    | child_window(title="Fwd: Tickets for Budapest: Danube River Sightseeing Cruise with Hop On Hop Off Option - Night-time Cruise (Booking ID: 12341453)", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - 'Sun 07-05-2023 01:56'    (L0, T0, R0, B0)
+   |    |    |    | ['Static7', 'Tue 16-05-2023 10:35Static', 'Tue 16-05-2023 10:35']
+   |    |    |    | child_window(title="Sun 07-05-2023 01:56", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Static - '100 KB'    (L0, T0, R0, B0)
+   |    |    |    | ['198 KB', 'Static8', '198 KBStatic']
+   |    |    |    | child_window(title="100 KB", control_type="Text")
+   |    |    |    | 
+   |    |    |    | Image - 'No Categories'    (L0, T0, R0, B0)
+   |    |    |    | ['No CategoriesImage', 'Image9', 'No Categories', 'No CategoriesImage0', 'No CategoriesImage1', 'No Categories0', 'No Categories1']
+   |    |    |    | child_window(title="No Categories", control_type="Image")
+   |    |    |    | 
+   |    |    |    | Image - 'Unflagged'    (L0, T0, R0, B0)
+   |    |    |    | ['Unflagged', 'Image10', 'UnflaggedImage', 'Unflagged0', 'Unflagged1', 'UnflaggedImage0', 'UnflaggedImage1']
+   |    |    |    | child_window(title="Unflagged", control_type="Image")
+   |    | 
+   |    | Static - 'There are more items in this folder on the server'    (L0, T0, R0, B0)
+   |    | ['Static45', 'There are more items in this folder on the serverStatic', 'There are more items in this folder on the server']
+   |    | child_window(title="There are more items in this folder on the server", control_type="Text")
+   | 
+   | Pane - 'MsoDockLeft'    (L275, T128, R323, B970)
+   | ['Pane12', 'MsoDockLeft', 'MsoDockLeftPane']
+   | child_window(title="MsoDockLeft", control_type="Pane")
+   |    | 
+   |    | Toolbar - ''    (L275, T128, R323, B970)
+   |    | ['Toolbar', 'Uppsala Business ParkToolbar', 'Toolbar0', 'Toolbar1', 'Uppsala Business ParkToolbar0', 'Uppsala Business ParkToolbar1']
+   |    |    | 
+   |    |    | Dialog - ' '    (L275, T128, R323, B970)
+   |    |    | ['Dialog4', ' Dialog', ' ', ' 0', ' 1']
+   |    |    | child_window(title=" ", control_type="Window")
+   |    |    |    | 
+   |    |    |    | Pane - ''    (L275, T128, R323, B970)
+   |    |    |    | ['Pane13', 'Uppsala Business ParkPane3']
+   |    |    |    |    | 
+   |    |    |    |    | Pane - ''    (L275, T128, R323, B970)
+   |    |    |    |    | ['Pane14', 'Uppsala Business ParkPane4']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Custom - ' '    (L275, T128, R323, B970)
+   |    |    |    |    |    | ['Custom4', ' Custom', ' 2']
+   |    |    |    |    |    | child_window(title=" ", control_type="Custom")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | GroupBox - ''    (L275, T128, R323, B970)
+   |    |    |    |    |    |    | ['GroupBox5', 'Uppsala Business ParkGroupBox2']
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | ListBox - ''    (L275, T128, R323, B970)
+   |    |    |    |    |    |    |    | ['ListBox2', 'Uppsala Business ParkListBox2']
+   | 
+   | Pane - 'MsoDockTop'    (L275, T1, R1713, B128)
+   | ['Pane15', 'MsoDockTop', 'MsoDockTopPane']
+   | child_window(title="MsoDockTop", control_type="Pane")
+   |    | 
+   |    | Toolbar - ''    (L275, T1, R1713, B128)
+   |    | ['Toolbar2', 'Uppsala Business ParkToolbar2']
+   |    |    | 
+   |    |    | Pane - 'Ribbon'    (L275, T1, R1713, B128)
+   |    |    | ['Pane16', 'Ribbon', 'RibbonPane', 'Ribbon0', 'Ribbon1', 'RibbonPane0', 'RibbonPane1']
+   |    |    | child_window(title="Ribbon", control_type="Pane")
+   |    |    |    | 
+   |    |    |    | Pane - ''    (L275, T1, R1713, B128)
+   |    |    |    | ['Pane17', 'Uppsala Business ParkPane5']
+   |    |    |    |    | 
+   |    |    |    |    | Pane - ''    (L275, T1, R1713, B128)
+   |    |    |    |    | ['Pane18', 'Uppsala Business ParkPane6']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | Pane - 'Ribbon'    (L275, T1, R1713, B128)
+   |    |    |    |    |    | ['Pane19', 'Ribbon2', 'RibbonPane2']
+   |    |    |    |    |    | child_window(title="Ribbon", control_type="Pane")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Toolbar - 'Quick Access Toolbar'    (L317, T1, R403, B49)
+   |    |    |    |    |    |    | ['Quick Access ToolbarToolbar', 'Toolbar3', 'Quick Access Toolbar']
+   |    |    |    |    |    |    | child_window(title="Quick Access Toolbar", control_type="ToolBar")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - 'Send/Receive All Folders'    (L317, T10, R345, B39)
+   |    |    |    |    |    |    |    | ['Send/Receive All FoldersButton', 'Button15', 'Send/Receive All Folders']
+   |    |    |    |    |    |    |    | child_window(title="Send/Receive All Folders", auto_id="SendReceiveAll", control_type="Button")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - 'Undo'    (L346, T10, R374, B39)
+   |    |    |    |    |    |    |    | ['Undo', 'UndoButton', 'Button16']
+   |    |    |    |    |    |    |    | child_window(title="Undo", auto_id="Undo", control_type="Button")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | MenuItem - 'Customize Toolbar'    (L375, T9, R403, B40)
+   |    |    |    |    |    |    |    | ['Customize Toolbar', 'Customize ToolbarMenuItem', 'MenuItem', 'MenuItem0', 'MenuItem1']
+   |    |    |    |    |    |    |    | child_window(title="Customize Toolbar", control_type="MenuItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | GroupBox - ''    (L404, T1, R1515, B49)
+   |    |    |    |    |    |    | ['GroupBox6', 'Uppsala Business ParkGroupBox3']
+   |    |    |    |    |    |    | child_window(auto_id="SearchControlsRoot", control_type="Group")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | GroupBox - ''    (L404, T8, R709, B42)
+   |    |    |    |    |    |    |    | ['GroupBox7', 'Uppsala Business ParkGroupBox4']
+   |    |    |    |    |    |    |    | child_window(auto_id="SearchControlsDialogViewContent", control_type="Group")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | MenuItem - 'Type to search and use the up and down arrows keys to navigate'    (L404, T8, R709, B42)
+   |    |    |    |    |    |    |    |    | ['Type to search and use the up and down arrows keys to navigate', 'Type to search and use the up and down arrows keys to navigateMenuItem', 'MenuItem2']
+   |    |    |    |    |    |    |    |    | child_window(title="Type to search and use the up and down arrows keys to navigate", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - ''    (L453, T17, R708, B37)
+   |    |    |    |    |    |    |    |    |    | ['Edit', 'Uppsala Business ParkEdit', 'Edit0', 'Edit1']
+   |    |    |    |    |    |    |    |    |    | child_window(auto_id="SearchTextBox", control_type="Edit")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | GroupBox - ''    (L0, T0, R0, B0)
+   |    |    |    |    |    |    |    |    |    | ['GroupBox8']
+   |    |    |    |    |    |    |    |    |    | child_window(auto_id="InSearchBoxRightExtensions", control_type="Group")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Notifications'    (L1523, T1, R1569, B49)
+   |    |    |    |    |    |    | ['NotificationsButton', 'Notifications', 'Button17']
+   |    |    |    |    |    |    | child_window(title="Notifications", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Minimize'    (L1569, T1, R1617, B49)
+   |    |    |    |    |    |    | ['Button18', 'Minimize', 'MinimizeButton', 'Minimize0', 'Minimize1', 'MinimizeButton0', 'MinimizeButton1']
+   |    |    |    |    |    |    | child_window(title="Minimize", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Maximize'    (L1617, T1, R1665, B49)
+   |    |    |    |    |    |    | ['Button19', 'MaximizeButton', 'Maximize', 'MaximizeButton0', 'MaximizeButton1', 'Maximize0', 'Maximize1']
+   |    |    |    |    |    |    | child_window(title="Maximize", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Close'    (L1665, T1, R1713, B49)
+   |    |    |    |    |    |    | ['CloseButton', 'Button20', 'Close', 'CloseButton0', 'CloseButton1', 'Close0', 'Close1']
+   |    |    |    |    |    |    | child_window(title="Close", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'File Tab'    (L327, T49, R381, B79)
+   |    |    |    |    |    |    | ['File TabButton', 'Button21', 'File Tab']
+   |    |    |    |    |    |    | child_window(title="File Tab", auto_id="FileTabButton", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | TabControl - 'Ribbon Tabs'    (L381, T49, R1713, B79)
+   |    |    |    |    |    |    | ['TabControl', 'Ribbon TabsTabControl', 'Ribbon Tabs']
+   |    |    |    |    |    |    | child_window(title="Ribbon Tabs", control_type="Tab")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | TabItem - 'Home'    (L381, T49, R436, B79)
+   |    |    |    |    |    |    |    | ['HomeTabItem', 'Home', 'TabItem', 'TabItem0', 'TabItem1', 'Home0', 'Home1']
+   |    |    |    |    |    |    |    | child_window(title="Home", auto_id="TabMail", control_type="TabItem")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | TabItem - 'Send / Receive'    (L437, T49, R543, B79)
+   |    |    |    |    |    |    |    | ['Send / Receive', 'Send / ReceiveTabItem', 'TabItem2']
+   |    |    |    |    |    |    |    | child_window(title="Send / Receive", auto_id="TabSendReceive", control_type="TabItem")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | TabItem - 'View'    (L544, T49, R590, B79)
+   |    |    |    |    |    |    |    | ['View', 'TabItem3', 'ViewTabItem']
+   |    |    |    |    |    |    |    | child_window(title="View", auto_id="TabView", control_type="TabItem")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | TabItem - 'Help'    (L591, T49, R637, B79)
+   |    |    |    |    |    |    |    | ['Help', 'TabItem4', 'HelpTabItem']
+   |    |    |    |    |    |    |    | child_window(title="Help", auto_id="HelpTab", control_type="TabItem")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - 'Try the new Outlook'    (L1528, T49, R1708, B78)
+   |    |    |    |    |    |    |    | ['Try the new OutlookButton', 'Try the new Outlook', 'Button22']
+   |    |    |    |    |    |    |    | child_window(title="Try the new Outlook", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Pane - 'Lower Ribbon'    (L331, T79, R1677, B128)
+   |    |    |    |    |    |    | ['Pane20', 'Lower Ribbon', 'Lower RibbonPane']
+   |    |    |    |    |    |    | child_window(title="Lower Ribbon", control_type="Pane")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Custom - 'Home'    (L335, T79, R1548, B128)
+   |    |    |    |    |    |    |    | ['Custom5', 'Home2', 'HomeCustom']
+   |    |    |    |    |    |    |    | child_window(title="Home", control_type="Custom")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'New'    (L335, T79, R465, B128)
+   |    |    |    |    |    |    |    |    | ['NewGroupBox', 'GroupBox9', 'New']
+   |    |    |    |    |    |    |    |    | child_window(title="New", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | SplitButton - 'New Email'    (L339, T83, R461, B124)
+   |    |    |    |    |    |    |    |    |    | ['SplitButton', 'New Email', 'New EmailSplitButton', 'New Email0', 'New Email1', 'SplitButton0', 'SplitButton1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="New Email", control_type="SplitButton")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Button - 'New Email'    (L339, T83, R441, B124)
+   |    |    |    |    |    |    |    |    |    |    | ['New Email2', 'New EmailButton', 'Button23']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="New Email", auto_id="NewItem", control_type="Button")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | MenuItem - 'More Options'    (L441, T83, R461, B124)
+   |    |    |    |    |    |    |    |    |    |    | ['More Options', 'More OptionsMenuItem', 'MenuItem3', 'More Options0', 'More Options1', 'More OptionsMenuItem0', 'More OptionsMenuItem1']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="More Options", auto_id="MailNewItemSplitButton_Dropdown", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'TeamViewer'    (L465, T79, R596, B128)
+   |    |    |    |    |    |    |    |    | ['TeamViewerGroupBox', 'TeamViewer', 'GroupBox10']
+   |    |    |    |    |    |    |    |    | child_window(title="TeamViewer", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'New Meeting'    (L469, T83, R592, B124)
+   |    |    |    |    |    |    |    |    |    | ['New Meeting', 'New MeetingButton', 'Button24']
+   |    |    |    |    |    |    |    |    |    | child_window(title="New Meeting", control_type="Button")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Move & Delete'    (L596, T79, R746, B128)
+   |    |    |    |    |    |    |    |    | ['GroupBox11', 'Move & Delete', 'Move & DeleteGroupBox']
+   |    |    |    |    |    |    |    |    | child_window(title="Move & Delete", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | SplitButton - 'Delete'    (L600, T83, R656, B124)
+   |    |    |    |    |    |    |    |    |    | ['SplitButton2', 'DeleteSplitButton', 'Delete', 'Delete0', 'Delete1']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Delete", control_type="SplitButton")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | Button - 'Delete'    (L600, T83, R636, B124)
+   |    |    |    |    |    |    |    |    |    |    | ['DeleteButton', 'Button25', 'Delete2']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="Delete", auto_id="Delete", control_type="Button")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | MenuItem - 'More Options'    (L636, T83, R656, B124)
+   |    |    |    |    |    |    |    |    |    |    | ['More Options2', 'More OptionsMenuItem2', 'MenuItem4']
+   |    |    |    |    |    |    |    |    |    |    | child_window(title="More Options", auto_id="DeleteSplitButton_Dropdown", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'Archive...'    (L656, T83, R692, B124)
+   |    |    |    |    |    |    |    |    |    | ['Button26', 'Archive...Button', 'Archive...']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Archive...", auto_id="MoveToArchiveFolder", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | MenuItem - 'Move'    (L692, T83, R742, B124)
+   |    |    |    |    |    |    |    |    |    | ['Move', 'MoveMenuItem', 'MenuItem5']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Move", auto_id="MoveToFolderGallery", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Respond'    (L746, T79, R862, B128)
+   |    |    |    |    |    |    |    |    | ['GroupBox12', 'RespondGroupBox', 'Respond']
+   |    |    |    |    |    |    |    |    | child_window(title="Respond", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'Reply'    (L750, T83, R786, B124)
+   |    |    |    |    |    |    |    |    |    | ['Reply', 'ReplyButton', 'Button27']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Reply", auto_id="Reply", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'Reply All'    (L786, T83, R822, B124)
+   |    |    |    |    |    |    |    |    |    | ['Reply All', 'Reply AllButton', 'Button28']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Reply All", auto_id="ReplyAll", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'Forward'    (L822, T83, R858, B124)
+   |    |    |    |    |    |    |    |    |    | ['Button29', 'ForwardButton', 'Forward']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Forward", auto_id="Forward", control_type="Button")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Quick Steps'    (L862, T79, R1001, B128)
+   |    |    |    |    |    |    |    |    | ['Quick StepsGroupBox', 'Quick Steps', 'GroupBox13', 'Quick StepsGroupBox0', 'Quick StepsGroupBox1', 'Quick Steps0', 'Quick Steps1']
+   |    |    |    |    |    |    |    |    | child_window(title="Quick Steps", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | GroupBox - 'Quick Steps'    (L866, T86, R997, B120)
+   |    |    |    |    |    |    |    |    |    | ['Quick StepsGroupBox2', 'Quick Steps2', 'GroupBox14']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Quick Steps", control_type="Group")
+   |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    | MenuItem - ''    (L866, T86, R997, B120)
+   |    |    |    |    |    |    |    |    |    |    | ['Uppsala Business ParkMenuItem', 'MenuItem6']
+   |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    | Pane - 'Quick Steps'    (L868, T90, R980, B116)
+   |    |    |    |    |    |    |    |    |    |    |    | ['Pane21', 'Quick Steps3', 'Quick StepsPane']
+   |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Quick Steps", auto_id="QuickStepsGallery", control_type="Pane")
+   |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    | ListView - 'Quick Steps'    (L869, T90, R979, B246)
+   |    |    |    |    |    |    |    |    |    |    |    |    | ['Quick Steps4', 'ListView', 'Quick StepsListView']
+   |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Quick Steps", control_type="DataGrid")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ListItem - 'Mecenat'    (L869, T90, R979, B116)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['Mecenat', 'MecenatListItem', 'ListItem7']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Mecenat", control_type="ListItem")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ListItem - 'To Manager'    (L869, T116, R979, B142)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['To ManagerListItem', 'To Manager', 'ListItem8']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="To Manager", control_type="ListItem")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ListItem - 'Team Email'    (L869, T142, R979, B168)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['Team Email', 'Team EmailListItem', 'ListItem9']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Team Email", control_type="ListItem")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ListItem - 'Done'    (L869, T168, R979, B194)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['Done', 'DoneListItem', 'ListItem10']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Done", control_type="ListItem")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ListItem - 'Reply & Delete'    (L869, T194, R979, B220)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['Reply & DeleteListItem', 'Reply & Delete', 'ListItem11']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Reply & Delete", control_type="ListItem")
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ListItem - 'Create New'    (L869, T220, R979, B246)
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | ['Create NewListItem', 'ListItem12', 'Create New']
+   |    |    |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Create New", control_type="ListItem")
+   |    |    |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    |    |    | Button - 'Quick Steps'    (L980, T86, R994, B120)
+   |    |    |    |    |    |    |    |    |    |    |    | ['Quick Steps5', 'Quick StepsButton', 'Button30']
+   |    |    |    |    |    |    |    |    |    |    |    | child_window(title="Quick Steps", control_type="Button")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Tags'    (L1001, T79, R1286, B128)
+   |    |    |    |    |    |    |    |    | ['GroupBox15', 'Tags', 'TagsGroupBox']
+   |    |    |    |    |    |    |    |    | child_window(title="Tags", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'Unread/ Read'    (L1005, T83, R1132, B124)
+   |    |    |    |    |    |    |    |    |    | ['Unread/ Read', 'Unread/ ReadButton', 'Button31']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Unread/ Read", auto_id="ToggleMarkAsRead", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | MenuItem - 'Categorize'    (L1132, T83, R1182, B124)
+   |    |    |    |    |    |    |    |    |    | ['Categorize', 'MenuItem7', 'CategorizeMenuItem']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Categorize", auto_id="CategorizeMenu", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | MenuItem - 'Follow Up'    (L1182, T83, R1232, B124)
+   |    |    |    |    |    |    |    |    |    | ['Follow UpMenuItem', 'Follow Up', 'MenuItem8']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Follow Up", auto_id="FollowUpMenu", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | MenuItem - 'Assign Policy'    (L1232, T83, R1282, B124)
+   |    |    |    |    |    |    |    |    |    | ['Assign PolicyMenuItem', 'MenuItem9', 'Assign Policy']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Assign Policy", auto_id="PolicyTagsMenu", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Find'    (L1286, T79, R1504, B128)
+   |    |    |    |    |    |    |    |    | ['Find', 'GroupBox16', 'FindGroupBox']
+   |    |    |    |    |    |    |    |    | child_window(title="Find", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Edit - ''    (L1298, T92, R1409, B114)
+   |    |    |    |    |    |    |    |    |    | ['Edit2']
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'Address Book...'    (L1414, T83, R1450, B124)
+   |    |    |    |    |    |    |    |    |    | ['Address Book...', 'Address Book...Button', 'Button32']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Address Book...", auto_id="AddressBook", control_type="Button")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | MenuItem - 'Filter Email'    (L1450, T83, R1500, B124)
+   |    |    |    |    |    |    |    |    |    | ['Filter EmailMenuItem', 'MenuItem10', 'Filter Email']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Filter Email", auto_id="MenuFilterMail", control_type="MenuItem")
+   |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    | GroupBox - 'Add-ins'    (L1504, T79, R1548, B128)
+   |    |    |    |    |    |    |    |    | ['Add-insGroupBox', 'GroupBox17', 'Add-ins']
+   |    |    |    |    |    |    |    |    | child_window(title="Add-ins", control_type="Group")
+   |    |    |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    |    |    | Button - 'Get Add-ins'    (L1508, T83, R1544, B124)
+   |    |    |    |    |    |    |    |    |    | ['Get Add-ins', 'Get Add-insButton', 'Button33']
+   |    |    |    |    |    |    |    |    |    | child_window(title="Get Add-ins", auto_id="OfficeOutlookAppStore", control_type="Button")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | MenuItem - 'More Commands, Home'    (L1552, T83, R1588, B124)
+   |    |    |    |    |    |    |    | ['More Commands, HomeMenuItem', 'More Commands, Home', 'MenuItem11']
+   |    |    |    |    |    |    |    | child_window(title="More Commands, Home", control_type="MenuItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | MenuItem - 'Ribbon Display Options'    (L1681, T104, R1701, B124)
+   |    |    |    |    |    |    | ['Ribbon Display Options', 'Ribbon Display OptionsMenuItem', 'MenuItem12']
+   |    |    |    |    |    |    | child_window(title="Ribbon Display Options", control_type="MenuItem")
+   | 
+   | Pane - 'MsoDockBottom'    (L275, T970, R1713, B992)
+   | ['Pane22', 'MsoDockBottomPane', 'MsoDockBottom']
+   | child_window(title="MsoDockBottom", control_type="Pane")
+   |    | 
+   |    | Toolbar - ''    (L275, T970, R1713, B992)
+   |    | ['Select an item to readToolbar', 'Toolbar4']
+   |    |    | 
+   |    |    | Pane - 'Status Bar'    (L275, T970, R1713, B992)
+   |    |    | ['Pane23', 'Status BarPane', 'Status Bar', 'Status Bar0', 'Status Bar1']
+   |    |    | child_window(title="Status Bar", control_type="Pane")
+   |    |    |    | 
+   |    |    |    | Pane - ''    (L275, T970, R1713, B992)
+   |    |    |    | ['Pane24', 'Select an item to readPane', 'Select an item to readPane0', 'Select an item to readPane1']
+   |    |    |    |    | 
+   |    |    |    |    | Pane - ''    (L275, T970, R1713, B992)
+   |    |    |    |    | ['Pane25', 'Select an item to readPane2']
+   |    |    |    |    |    | 
+   |    |    |    |    |    | StatusBar - 'Status Bar'    (L275, T970, R1713, B992)
+   |    |    |    |    |    | ['StatusBar', 'Status BarStatusBar', 'Status Bar2']
+   |    |    |    |    |    | child_window(title="Status Bar", control_type="StatusBar")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Items in View 1,578'    (L275, T971, R351, B992)
+   |    |    |    |    |    |    | ['Items in View 1,578Button', 'Items in View 1,578', 'Button34']
+   |    |    |    |    |    |    | child_window(title="Items in View 1,578", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Progress All folders are up to date.'    (L1095, T971, R1242, B992)
+   |    |    |    |    |    |    | ['Progress All folders are up to date.Button', 'Button35', 'Progress All folders are up to date.']
+   |    |    |    |    |    |    | child_window(title="Progress All folders are up to date.", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Connectivity to your server. Connected to: Microsoft Exchange'    (L1245, T971, R1438, B992)
+   |    |    |    |    |    |    | ['Connectivity to your server. Connected to: Microsoft ExchangeButton', 'Button36', 'Connectivity to your server. Connected to: Microsoft Exchange']
+   |    |    |    |    |    |    | child_window(title="Connectivity to your server. Connected to: Microsoft Exchange", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | TabItem - 'Normal View. Show All Pinned Panes.'    (L1448, T971, R1488, B992)
+   |    |    |    |    |    |    | ['Normal View. Show All Pinned Panes.TabItem', 'TabItem5', 'Normal View. Show All Pinned Panes.']
+   |    |    |    |    |    |    | child_window(title="Normal View. Show All Pinned Panes.", control_type="TabItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | TabItem - 'Reading View. Hide All Pinned Panes.'    (L1488, T971, R1528, B992)
+   |    |    |    |    |    |    | ['Reading View. Hide All Pinned Panes.TabItem', 'TabItem6', 'Reading View. Hide All Pinned Panes.']
+   |    |    |    |    |    |    | child_window(title="Reading View. Hide All Pinned Panes.", control_type="TabItem")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Zoom Out'    (L1529, T971, R1547, B992)
+   |    |    |    |    |    |    | ['Zoom Out', 'Button37', 'Zoom OutButton', 'Zoom Out0', 'Zoom Out1', 'Zoom OutButton0', 'Zoom OutButton1']
+   |    |    |    |    |    |    | child_window(title="Zoom Out", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Slider - 'Zoom'    (L1547, T971, R1647, B992)
+   |    |    |    |    |    |    | ['Select an item to readSlider', 'Slider']
+   |    |    |    |    |    |    | child_window(title="Zoom", control_type="Slider")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - 'Zoom Out'    (L0, T0, R0, B0)
+   |    |    |    |    |    |    |    | ['Zoom Out2', 'Button38', 'Zoom OutButton2']
+   |    |    |    |    |    |    |    | child_window(title="Zoom Out", control_type="Button")
+   |    |    |    |    |    |    |    | 
+   |    |    |    |    |    |    |    | Button - 'Zoom In'    (L1552, T971, R1647, B992)
+   |    |    |    |    |    |    |    | ['Zoom In', 'Zoom InButton', 'Button39', 'Zoom In0', 'Zoom In1', 'Zoom InButton0', 'Zoom InButton1']
+   |    |    |    |    |    |    |    | child_window(title="Zoom In", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Button - 'Zoom In'    (L1647, T971, R1665, B992)
+   |    |    |    |    |    |    | ['Zoom In2', 'Zoom InButton2', 'Button40']
+   |    |    |    |    |    |    | child_window(title="Zoom In", control_type="Button")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Static - 'Zoom 10%'    (L1665, T971, R1702, B992)
+   |    |    |    |    |    |    | ['Zoom 10%Static', 'Static46', 'Zoom 10%']
+   |    |    |    |    |    |    | child_window(title="Zoom 10%", control_type="Text")
+   |    |    |    |    |    |    | 
+   |    |    |    |    |    |    | Thumb - 'Size box'    (L1702, T971, R1713, B992)
+   |    |    |    |    |    |    | ['Thumb2', 'Size boxThumb', 'Size box']
+   |    |    |    |    |    |    | child_window(title="Size box", control_type="Thumb")
+   | 
+   | TitleBar - ''    (L0, T0, R0, B0)
+   | ['TitleBar']
+   |    | 
+   |    | Menu - 'System'    (L275, T8, R297, B30)
+   |    | ['Menu', 'SystemMenu', 'System', 'System0', 'System1']
+   |    | child_window(title="System", auto_id="MenuBar", control_type="MenuBar")
+   |    |    | 
+   |    |    | MenuItem - 'System'    (L275, T8, R297, B30)
+   |    |    | ['MenuItem13', 'SystemMenuItem', 'System2']
+   |    |    | child_window(title="System", control_type="MenuItem")
+   |    | 
+   |    | Button - 'Minimize'    (L1574, T-22, R1621, B2)
+   |    | ['Button41', 'Minimize2', 'MinimizeButton2']
+   |    | child_window(title="Minimize", control_type="Button")
+   |    | 
+   |    | Button - 'Maximize'    (L1621, T-22, R1667, B2)
+   |    | ['Button42', 'MaximizeButton2', 'Maximize2']
+   |    | child_window(title="Maximize", control_type="Button")
+   |    | 
+   |    | Button - 'Close'    (L1667, T-22, R1714, B2)
+   |    | ['CloseButton2', 'Button43', 'Close2']
+   |    | child_window(title="Close", control_type="Button")
